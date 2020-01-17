@@ -1,5 +1,6 @@
 import random
 import randint
+import sys
 
 comp_wins = 0
 player_wins = 0
@@ -81,3 +82,4 @@ while True:
         break
     else:
         break
+sys.exit
